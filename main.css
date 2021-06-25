@@ -457,6 +457,12 @@ i{
     }
 }
 
+@media screen and (max-width: 500px){
+    .empty-box{
+        height: 150px;
+    }
+}
+
 .button .button-white{
     color: black;
 }
