@@ -138,10 +138,6 @@ div{
     color: #bb1e1e;
 } */
 
-.block-social{
-    margin-top: 40%;
-}
-
 @media screen and (max-width: 1000px) and (min-width: 500px){
     .block-social{
         margin-top: 0;
